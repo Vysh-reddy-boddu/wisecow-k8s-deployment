@@ -4,3 +4,7 @@ venv/
 *.env
 
 minikube-linux-amd64
+minikube-linux-amd64
+node_modules/
+venv/
+*.log
