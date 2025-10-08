@@ -16,8 +16,8 @@ spec:
     spec:
       containers:
       - name: wisecow
-        image: wisecow-app:latest   # Replace with DockerHub image if pushing remotely
+        image: vyshnaviboddu/wisecow:latest   # Replace with DockerHub image if pushing remotely
         ports:
-        - containerPort: 3000
+        - containerPort: 4499  
         # Optional: you can add resources or environment variables here
 
